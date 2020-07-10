@@ -1,5 +1,5 @@
 <h1 align="center">
-  ##  Guilherme Eckert
+ Guilherme Eckert
 </h1>
 
 <h1 align="center">
