@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://media.giphy.com/media/dXICCcws9oxxK/giphy.gif" />
+</h1>
 
-<!--
-**guilhermeseckert/guilhermeseckert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Hi there ! Don’t Repeat Yourself!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm studying to become a **Full Stack Developer** . I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. I'm passionate about technology, people, theather and specialy movies, as well as you've been noticed, I'm a huge fan of Iron Man.
+
+Currently living in Canada 🇨🇦 
+
+- 🌱 I’m currently learning the stack Node.js | ReactJS | React Native | TypeScript.
+- 💬 Ask me about Javascript / TypeScript, Node.js/Express.js, Docker, SOLID and so on.
+- 📫 How to reach me: [Email](guilhermeseckert1@gmail.com), [LinkedIn](https://www.linkedin.com/in/guilherme-eckert/)
+---
+
+⭐ From [guilhermeseckert](https://github.com/guilhermeseckert)
