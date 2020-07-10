@@ -15,4 +15,4 @@ Currently living in Canada 🇨🇦
 - 📫 How to reach me: [Email](guilhermeseckert1@gmail.com), [LinkedIn](https://www.linkedin.com/in/guilherme-eckert/)
 ---
 
-⭐ From [guilhermeseckert](https://github.com/guilhermeseckert)
+⭐ From [Guilhermeseckert](https://github.com/guilhermeseckert)
