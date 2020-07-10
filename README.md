@@ -1,4 +1,8 @@
 <h1 align="center">
+  ##  Guilherme Eckert
+</h1>
+
+<h1 align="center">
   <img src="https://media.giphy.com/media/dXICCcws9oxxK/giphy.gif" />
 </h1>
 
