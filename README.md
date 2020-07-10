@@ -11,7 +11,7 @@ I'm studying to become a **Full Stack Developer** . I'm currently looking for op
 Currently living in Canada 🇨🇦 
 
 - 🌱 I’m currently learning the stack Node.js | ReactJS | React Native | TypeScript.
-- 💬 Ask me about Javascript / TypeScript, Node.js/Express.js, Docker, SOLID and so on.
+- 💬 Fell free to ask me any questions about Javascript / TypeScript, Node.js/Express.js, Docker, SOLID and so on.
 - 📫 How to reach me: [Email](guilhermeseckert1@gmail.com), [LinkedIn](https://www.linkedin.com/in/guilherme-eckert/)
 ---
 
