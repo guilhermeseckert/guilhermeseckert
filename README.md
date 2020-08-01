@@ -10,7 +10,7 @@
 
 
 
-I'm studying to become a **Full Stack Developer** . I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. I'm passionate about technology, people, theather and specialy movies, as well as you've been noticed, I'm a huge fan of Iron Man.
+I'm studying to become a **Full Stack Developer** . I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. I'm passionate about technology, people, theather and specialy movies, As you may have noticed, I'm a huge fan of Iron Man.
 
 I`m currently living in Canada. 🇨🇦
 
