@@ -8,7 +8,7 @@
 
 ##  Hi there ! Don’t Repeat Yourself!
 
-I'm a Software Engineer who loves turning tricky projects into big wins. Whether it’s building cool web apps or getting deep into ERP systems, I’m all about diving into challenges and coming out with some great stories to tell. I’m super into making software that’s not just good, but scalable and efficient.
+I'm a Software Engineer who loves turning tricky projects into big wins. Whether it’s building cool web apps or getting deep into problems, I’m all about diving into challenges and coming out with some great stories to tell. I’m super into making software that’s not just good, but scalable and efficient.
 
 Fast-paced? Bring it on. My tech toolbox is packed with all sorts of languages and frameworks, and I’m a pro at getting teams to work together like a dream, even when the pressure’s on.
 
